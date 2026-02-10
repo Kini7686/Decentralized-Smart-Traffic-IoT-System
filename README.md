@@ -117,8 +117,7 @@ IoT Dataset (CSV)
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
-cd "New One - Copy"
+git clone https://github.com/Kini7686/Decentralized-Smart-Traffic-IoT-System
 ```
 
 ### 2. Create a virtual environment (recommended)
