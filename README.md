@@ -97,7 +97,7 @@ IoT Dataset (CSV)
 
 ### 6. Rejected Guidance
 - Rejected cases stored separately (not on blockchain)
-- Visible in dedicated tab for traffic police
+- Visible in a dedicated tab for traffic police
 - Supports full decryption for authorized users
 
 ---
